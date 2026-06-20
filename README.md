@@ -34,11 +34,9 @@ This project addresses these challenges through comprehensive Exploratory Data A
 
 ## Dataset Information
 
-**Dataset Name:** Product Sales by Region Dataset
+**Dataset Name:** Sales Performance Analysis
 
 **Domain:** Retail & Wholesale Sales Analytics
-
-**Source:** ExcelX Practice Data
 
 **Records:** 1,500 Transactions
 
